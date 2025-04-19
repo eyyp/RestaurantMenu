@@ -1,0 +1,43 @@
+const Constants = {
+    BASE_URL:"http://13.60.92.6:3000/dashboard/api/v1/",
+    user:{
+        check:'user/check'
+    },
+    product:{
+        all:'product/all',
+        find:'product/find',
+        delete:'product/delete',
+        create:'product/create',
+        setImage:'product/setImage',
+        getImage:'product/getImage'
+    },
+    property:{
+        type:{
+            create:'property/type/create',
+             all:'property/type/all'
+        },
+        item:{
+            find:'property/find'
+        },
+    },
+    tables:{
+        create:'tables/create',
+        find:'tables/find'
+    },
+    category:{
+        create:'category/create',
+        all:'category/all',
+        find:'category/find'
+    },
+    order:{
+        pull:'order/pull',
+        delete:'order/delete',
+        change:'order/change/delivery',
+        find:'order/find/item',
+        item:{
+            property:'order/item/property'
+        }
+    }    
+}
+
+export default Constants;

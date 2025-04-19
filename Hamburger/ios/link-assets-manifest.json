@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/chawp.otf",
+      "sha1": "19c176dfedf653b581fd024ccd180a1116255a1d"
+    },
+    {
+      "path": "assets/font/CoalhandLuke TRIAL.otf",
+      "sha1": "b49018afae8204a6fdab5e666512de879e721fc4"
+    },
+    {
+      "path": "assets/font/EraserDust.ttf",
+      "sha1": "0622b441afe6447b2060f3027c6de75f39d4dc9f"
+    },
+    {
+      "path": "assets/font/EraserRegular.ttf",
+      "sha1": "0b2db4b5c87c7382516b4287c77926c9c446aa6c"
+    },
+    {
+      "path": "assets/font/HOMICA-BF64c0d719b491b.otf",
+      "sha1": "c00c442f34e81803211fc2ad2d9c634d9c937a8f"
+    },
+    {
+      "path": "assets/font/KGBrokenVesselsSketch.ttf",
+      "sha1": "08e126d08535cc8ad6183e9fd657f2923fe5fb3e"
+    },
+    {
+      "path": "assets/font/KumbhSans-Black.ttf",
+      "sha1": "5fd0fe9b5cc1529c16a9639cadb7ea02b742b410"
+    },
+    {
+      "path": "assets/font/KumbhSans-Bold.ttf",
+      "sha1": "49b26d901cba6aeb8a80bd1774addc29a665a5ba"
+    },
+    {
+      "path": "assets/font/KumbhSans-ExtraBold.ttf",
+      "sha1": "3fa935ede7fcad8f483051c89a6b35dc49079ee0"
+    },
+    {
+      "path": "assets/font/KumbhSans-ExtraLight.ttf",
+      "sha1": "c0f6a4dac57391e2c259d856d601872db7f1d4e3"
+    },
+    {
+      "path": "assets/font/KumbhSans-Light.ttf",
+      "sha1": "dd2415031c33d4e394ed3f7ea2323c7c44a94da8"
+    },
+    {
+      "path": "assets/font/KumbhSans-Medium.ttf",
+      "sha1": "a8ef829cac90eb75d6b95d8ee1b1dd5532ef4ec9"
+    },
+    {
+      "path": "assets/font/KumbhSans-Regular.ttf",
+      "sha1": "031c083b268372ec5f2e3f9d7bdd6cf260498cf7"
+    },
+    {
+      "path": "assets/font/KumbhSans-SemiBold.ttf",
+      "sha1": "90d71e87a613e22ff261a2d53e0a3294d4c2be7a"
+    },
+    {
+      "path": "assets/font/KumbhSans-Thin.ttf",
+      "sha1": "f97233c592ccd477433d139c267f3c58232aa024"
+    },
+    {
+      "path": "assets/font/Throostle-1Gq5v.ttf",
+      "sha1": "f516a94700c608f94196515ca4b11cff558f10b4"
+    },
+    {
+      "path": "assets/font/WhiteLettersDemoItalic.ttf",
+      "sha1": "94ef109d721cce5005626c3ac13f8c68443776e0"
+    },
+    {
+      "path": "assets/font/WhiteLettersDemoRegular.ttf",
+      "sha1": "6f59be777314921976cb18b79d9aab83bf578aae"
+    },
+    {
+      "path": "assets/font/zai_SeagullFelt-tipPen.otf",
+      "sha1": "024d3867410769b9266b30afd4c0c396d89e37da"
+    }
+  ]
+}

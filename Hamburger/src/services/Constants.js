@@ -1,0 +1,43 @@
+const Constants = {
+    BASE_URL:'http://13.60.92.6:3002/api/v1/',
+    user:{
+        check:'user/check',
+    },
+    tables:{
+        all:'tables/all',
+        find:'tables/find'
+    },
+    product:{
+        all:'product/all',
+        category:'product/category',
+        find:'product/find',
+        getImage:'product/getImage'
+    },
+    cart:{
+        create:'cart/create',
+        add:'cart/add',
+        user:'cart/user',
+        count:'cart/count',
+        delete:{
+            item:'cart/delete/item',
+            cart:'cart/delete'
+        },
+        total:'cart/total',
+        item:{
+            property:'cart/item/property'
+        }
+    },
+    order:{
+        create:'order/create'
+    },
+    property:{
+        type:'property/type',
+        product:'property/product',
+        find:'property/find'
+    },
+    category:{
+        all:'category/all'
+    }
+}
+
+export default Constants;
